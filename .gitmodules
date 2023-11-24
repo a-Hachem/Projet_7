@@ -1,0 +1,6 @@
+[submodule "p7-ml-api-fastapi"]
+	path = p7-ml-api-fastapi
+	url = https://github.com/a-Hachem/p7-ml-api-fastapi
+[submodule "p7-streamlit"]
+	path = p7-streamlit
+	url = https://github.com/a-Hachem/p7-streamlit
